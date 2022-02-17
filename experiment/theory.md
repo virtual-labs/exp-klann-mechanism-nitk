@@ -25,7 +25,7 @@ This mechanism consists of two conjoined four bar mechanism ie. the input of the
 
 **Mathematical Model**
 
-The system was modelled as two joined four bar mechanisms with the first mechanism being :OA â€“ AB â€“ BF â€“ FO and the second mechanism being : FC â€“ CD â€“ DE â€“ EF . Here the link FC was imaginary.
+The system was modelled as two joined four bar mechanisms with the first mechanism being : OA – AB – BF – FO and the second mechanism being : FC – CD – DE – EF . Here the link FC was imaginary.
 
 OA = r1
 
