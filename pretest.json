@@ -1,0 +1,91 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Which of these gives a perfect straight line motion?",
+        "answers": {
+          "a": "Modified Scott Russel Mechanism",
+          "b": "Hart's Inversor",
+          "c": "Watt's straight line linkage",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
+      },
+      {
+        "question": "Which of the following is the inversion of four bar chain?",
+        "answers": {
+          "a": "Beam engine",
+          "b": "Pendulum pump",
+          "c": "Oscillating cylinder",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
+      },
+      {
+        "question": "The links in a four bar mechanism is ?",
+        "answers": {
+          "a": "Binary link",
+          "b": "Ternary link",
+          "c": "Flexible link",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
+      },
+      {
+        "question": "Tchebichev lambda mechanism satisfies Grashof rule. This statement is",
+        "answers": {
+          "a": "True",
+          "b": "False",
+          "c": "Sometime True",
+          "d": "Right answer"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
+      },
+      {
+        "question": "Watts indicator is an inversion of",
+        "answers": {
+          "a": "Four bar mechanism ",
+          "b": "Double slider crank mechanism",
+          "c": "Slider crank mechanism",
+          "d": "Six bar mechanism"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
+      }
+    ]
+  }
+  
