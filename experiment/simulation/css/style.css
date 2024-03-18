@@ -220,7 +220,7 @@ h1 {
   border: 1px solid var(--clr-title-background);
   background-color: #fff;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 0;
   flex-wrap: wrap;
   flex-direction: row;
@@ -361,7 +361,9 @@ h1 {
 }
 
 #commentboxleft {
-  align-self: center;
+  margin: 0 auto;
+  text-align: center;
+  /* justify-self: center; */
 }
 .control-sections {
   height: 100%;
